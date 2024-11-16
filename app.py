@@ -39,8 +39,8 @@ def process_data(feed):
             f"Longitude: {longitude}\n"
             f"País: {pais}\n"
             f"Cidade: {cidade}\n"
-            f"Temperatura do Reservatório 1: {temperatura_reservatorio_1} °C\n"
-            f"Temperatura do Reservatório 2: {temperatura_reservatorio_2} °C\n"
+            f"Temperatura do Reservatório Água Fria: {temperatura_reservatorio_1} °C\n"
+            f"Temperatura do Reservatório Água Quente: {temperatura_reservatorio_2} °C\n"
             f"Tensão do Gerador: {tensao_gerador} V\n"
         )
         print("Dados do Thingspeak:\n", data_string)
