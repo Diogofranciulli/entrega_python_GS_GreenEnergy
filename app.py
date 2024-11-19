@@ -28,8 +28,8 @@ def process_data(feed):
     if feed:
         latitude = feed.get('field1', 'N/A')
         longitude = feed.get('field2', 'N/A')
-        pais = feed.get('field3', 'N/A')
-        cidade = feed.get('field4', 'N/A')
+        pais = feed.get('field4', 'N/A')
+        cidade = feed.get('field3', 'N/A')
         temperatura_reservatorio_1 = feed.get('field5', 'N/A')
         temperatura_reservatorio_2 = feed.get('field6', 'N/A')
         tensao_gerador = feed.get('field7', 'N/A')
@@ -62,7 +62,7 @@ def process_data(feed):
 # Função para salvar os dados em um arquivo
 def save_data_to_file(data_string):
     try:
-        with open('dados_solar.txt', 'a') as file:
+        with open('dados_solar.txt', 'a', encoding="UTF-8") as file:
             file.write(data_string + "\n" + "-" * 30 + "\n")
     except IOError as e:
         print("Erro ao salvar dados no arquivo:", e)

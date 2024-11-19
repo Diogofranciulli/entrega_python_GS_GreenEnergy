@@ -1,0 +1,81 @@
+Latitude: -23.678890
+Longitude: -46.536709
+País: Santo Andre
+Cidade: Brazil
+Temperatura do Reservatório Água Fria: 10.8 °C
+Temperatura do Reservatório Água Quente: 67.1 °C
+Tensão do Gerador: 0.00 V
+
+------------------------------
+Latitude: -23.678890
+Longitude: -46.536709
+País: Santo Andre
+Cidade: Brazil
+Temperatura do Reservatório Água Fria: 10.8 °C
+Temperatura do Reservatório Água Quente: 67.1 °C
+Tensão do Gerador: 0.00 V
+
+------------------------------
+Latitude: -23.678890
+Longitude: -46.536709
+País: Santo Andre
+Cidade: Brazil
+Temperatura do Reservatório Água Fria: 10.8 °C
+Temperatura do Reservatório Água Quente: 67.1 °C
+Tensão do Gerador: 0.00 V
+
+------------------------------
+Latitude: -23.678890
+Longitude: -46.536709
+País: Santo Andre
+Cidade: Brazil
+Temperatura do Reservatório Água Fria: 10.8 °C
+Temperatura do Reservatório Água Quente: 67.1 °C
+Tensão do Gerador: 0.00 V
+
+------------------------------
+Latitude: -23.678890
+Longitude: -46.536709
+País: Santo Andre
+Cidade: Brazil
+Temperatura do Reservatório Água Fria: 10.8 °C
+Temperatura do Reservatório Água Quente: 67.1 °C
+Tensão do Gerador: 0.00 V
+
+------------------------------
+Latitude: -23.678890
+Longitude: -46.536709
+País: Brazil
+Cidade: Santo Andre
+Temperatura do Reservatório Água Fria: 10.8 °C
+Temperatura do Reservatório Água Quente: 67.1 °C
+Tensão do Gerador: 0.00 V
+
+------------------------------
+Latitude: -23.678890
+Longitude: -46.536709
+País: Brazil
+Cidade: Santo Andre
+Temperatura do Reservatório Água Fria: 10.8 °C
+Temperatura do Reservatório Água Quente: 67.1 °C
+Tensão do Gerador: 0.00 V
+
+------------------------------
+Latitude: -23.678890
+Longitude: -46.536709
+PaÃ­s: Brazil
+Cidade: Santo Andre
+Temperatura do ReservatÃ³rio Ãgua Fria: 10.8 Â°C
+Temperatura do ReservatÃ³rio Ãgua Quente: 67.1 Â°C
+TensÃ£o do Gerador: 0.00 V
+
+------------------------------
+Latitude: -23.678890
+Longitude: -46.536709
+PaÃ­s: Brazil
+Cidade: Santo Andre
+Temperatura do ReservatÃ³rio Ãgua Fria: 10.8 Â°C
+Temperatura do ReservatÃ³rio Ãgua Quente: 67.1 Â°C
+TensÃ£o do Gerador: 0.00 V
+
+------------------------------
