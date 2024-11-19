@@ -1,5 +1,9 @@
 # Projeto: Coleta de Dados de Energia Solar com Thingspeak
 
+**Diogo Leles Franciulli - RM: 558487** <br>
+**Felipe Sousa De Oliveira - RM: 559085** <br>
+**Ryan Brito Pereira Ramos - RM: 554497** <br>
+
 Este projeto em Python utiliza a API do **Thingspeak** para coletar e processar dados relacionados a um sistema de energia solar. Os dados incluem localização, informações sobre os reservatórios de água (temperatura) e a tensão do gerador de energia. As informações são exibidas no console, salvas em um arquivo e registradas em tempo real.
 
 ---
